@@ -1,0 +1,1 @@
+/home/abdulaziz/workspace/OpenCV_Projects/Lab 5/Q2/CMakeFiles/app.dir
